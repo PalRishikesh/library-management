@@ -1,1 +1,1 @@
-Postman collection : Postman Collection : https://www.getpostman.com/collections/068b89414d37cb36979c
+Postman Collection : https://www.getpostman.com/collections/068b89414d37cb36979c
